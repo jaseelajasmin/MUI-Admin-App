@@ -1,2 +1,13 @@
-# MUI-Admin-App
-A modern, responsive **Admin Dashboard** built with **Next.js** and **Material-UI (MUI)**.   This project provides an admin interface with charts, tables, forms, and UI components to manage data efficiently.
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/MUI-Admin-App.git
+cd MUI-Admin-App
+
+To Install Dependencies
+npm install
+
